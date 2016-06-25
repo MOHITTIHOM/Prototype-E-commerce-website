@@ -1,5 +1,6 @@
-## Prototype-E-commerce-website
-#A prototype for an e-commerce website using HTML,CSS,Bootstrap,Php,MySQL (on Xampp).
+# Prototype-E-commerce-website
+
+##A prototype for an e-commerce website using HTML,CSS,Bootstrap,Php,MySQL (on Xampp).
 
 Install Xampp.
 Open phpmyAdmin. Create a database b_database. import to it b_database.sql
