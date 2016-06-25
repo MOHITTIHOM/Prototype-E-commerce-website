@@ -1,0 +1,3 @@
+please note while changing any link at navbar
+change main,loginform.inc.php and navbar
+
